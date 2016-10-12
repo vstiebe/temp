@@ -1,2 +1,2 @@
 # temp
-Temporary repository for my personal scripts
+Temporary repository for toying around with github and my personal scripts.
